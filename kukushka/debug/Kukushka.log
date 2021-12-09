@@ -1,0 +1,6 @@
+﻿ShessGraf.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl MyText(int,int,char const *)" (?MyText@@YAXHHPBD@Z) в функции "void __cdecl DrawNumers(int,int,int)" (?DrawNumers@@YAXHHH@Z)
+ShessGraf.obj : error LNK2001: неразрешенный внешний символ ""struct HWND__ * hwnd" (?hwnd@@3PAUHWND__@@A)"
+Graf.obj : error LNK2001: неразрешенный внешний символ ""struct HWND__ * hwnd" (?hwnd@@3PAUHWND__@@A)"
+ShessGraf.obj : error LNK2001: неразрешенный внешний символ ""struct HDC__ * fdc" (?fdc@@3PAUHDC__@@A)"
+Graf.obj : error LNK2001: неразрешенный внешний символ ""struct HDC__ * fdc" (?fdc@@3PAUHDC__@@A)"
+C:\Users\olegl\Desktop\Курсова\Debug\ShessSm.exe : fatal error LNK1120: неразрешенных внешних элементов: 3
